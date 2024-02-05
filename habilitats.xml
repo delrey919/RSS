@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noves Curriculars</title>
+    <description>Canal RSS de Novetats Curriculars</description>
+    <link>http://www.exemple.cat</link>
+    <item>
+      <title>Noves habilitats afegides</title>
+      <description>S'han afegit noves habilitats al currículum.</description>
+      <link>http://www.exemple.cat/noves-habilitats</link>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Experiència Laboral</title>
+    <description>Canal RSS de Novetats d'Experiència Laboral</description>
+    <link>http://www.exemple.cat</link>
+    <item>
+      <title>Canvis en l'experiència laboral</title>
+      <description>S'han actualitzat les experiències laborals al currículum.</description>
+      <link>http://www.exemple.cat/noves-experiencies</link>
+    </item>
+  </channel>
+</rss>
